@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YGO-Duel-Disk.CSharp", "YGO-Duel-Disk.CSharp.csproj", "{12EB974C-B5FA-D163-7940-8D45A465E2B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YGO-Duel-Disk.CSharp.Editor", "YGO-Duel-Disk.CSharp.Editor.csproj", "{A66726A6-9096-E2A9-359F-9DC264806FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12EB974C-B5FA-D163-7940-8D45A465E2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EB974C-B5FA-D163-7940-8D45A465E2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EB974C-B5FA-D163-7940-8D45A465E2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EB974C-B5FA-D163-7940-8D45A465E2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66726A6-9096-E2A9-359F-9DC264806FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66726A6-9096-E2A9-359F-9DC264806FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66726A6-9096-E2A9-359F-9DC264806FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66726A6-9096-E2A9-359F-9DC264806FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
